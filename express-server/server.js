@@ -1,7 +1,8 @@
 // import dependencies
 
 const express = require('express');
-// const path = require('path')
+//will uncomment path if not used
+const path = require('path')
 const http = require('http');
 const bodyParser = require('body-parser');
 
