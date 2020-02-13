@@ -1,0 +1,25 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "An express server app by NODEJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davies-K/docker-compose-MEAN-stack.git"
+  },
+  "keywords": [
+    "docker",
+    "compose",
+    "MEAN",
+    "stack"
+  ],
+  "author": "Davies Opoku-Kwarteng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Davies-K/docker-compose-MEAN-stack/issues"
+  },
+  "homepage": "https://github.com/Davies-K/docker-compose-MEAN-stack#readme"
+}

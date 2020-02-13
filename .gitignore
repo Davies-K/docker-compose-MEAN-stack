@@ -1,0 +1,3 @@
+*.lock.json
+
+frontend-angular/package-lock\.json
